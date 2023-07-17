@@ -1239,3 +1239,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.07.17-19.35.50:214][923]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.17-19.35.50:215][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2023.07.17-19.35.50:215][923]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.07.17-20.15.57:250][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.17-20.15.57:269][628]LogSavePackage: Moving '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Saved/FirstPersonExampleMap8164814645F2191B6510B480445934E7.tmp' to '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.17-20.15.57:635][628]LogSavePackage: Moving '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Saved/FirstPersonExampleMap_BuiltData0EC2D0754EB65B5A6B065D95E5307429.tmp' to '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.17-20.15.57:646][628]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.17-20.15.57:646][628]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.17-20.15.57:646][628]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
