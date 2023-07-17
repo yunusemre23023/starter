@@ -1230,3 +1230,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.07.17-19.15.25:893][  0]LogAssetRegistry: Asset discovery search completed in 21.5618 seconds
 [2023.07.17-19.15.25:900][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2023.07.17-19.15.26:148][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.17-19.34.27:714][610]LogActorFactory: Actor Factory created Cube
+[2023.07.17-19.34.30:829][697]LogActorFactory: Actor Factory created Cube
+[2023.07.17-19.35.49:044][923]LogSlate: Took 0.000561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.17-19.35.49:161][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.07.17-19.35.49:205][923]LogSavePackage: Moving '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Saved/FirstPersonExampleMap447694624B3E1938B9CE0C9963C3AAEA.tmp' to '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.07.17-19.35.50:146][923]LogSavePackage: Moving '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Saved/FirstPersonExampleMap_BuiltData89AE0DF045A281AA2BFED98BEDEC3793.tmp' to '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.07.17-19.35.50:214][923]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.17-19.35.50:215][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.07.17-19.35.50:215][923]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
