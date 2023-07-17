@@ -1,0 +1,1232 @@
+﻿Log file open, 07/17/23 22:14:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GitOyun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288820
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Yunusemre23023 -epicuserid=034544fa34c64d778d14ff9cab0f407c -epiclocale=tr -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.07.17-19.15.00:817][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.07.17-19.15.00:817][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.07.17-19.15.00:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:817][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.07.17-19.15.00:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:817][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:817][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.07.17-19.15.00:818][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:818][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:848][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.17-19.15.00:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.07.17-19.15.00:849][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.17-19.15.00:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.07.17-19.15.00:849][  0]LogHAL: Display: Platform has ~ 16 GB [16948453376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.17-19.15.00:849][  0]LogInit: Going up to parent DeviceProfile []
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.17-19.15.00:849][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Scalability.ini]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.07.17-19.15.00:850][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.17-19.15.00:851][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.07.17-19.15.00:851][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.07.17-19.15.00:851][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.07.17-19.15.00:851][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Engine.ini]
+[2023.07.17-19.15.00:851][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Config/Windows/Editor.ini]
+[2023.07.17-19.15.00:851][  0]LogInit: Computer: DESKTOP-9DCP7KD
+[2023.07.17-19.15.00:851][  0]LogInit: User: yunus
+[2023.07.17-19.15.00:851][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.07.17-19.15.00:851][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.17-19.15.00:851][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.07.17-19.15.00:851][  0]LogMemory: Platform Memory Stats for Windows
+[2023.07.17-19.15.00:851][  0]LogMemory: Process Physical Memory: 144.63 MB used, 144.63 MB peak
+[2023.07.17-19.15.00:851][  0]LogMemory: Process Virtual Memory: 128.07 MB used, 128.07 MB peak
+[2023.07.17-19.15.00:851][  0]LogMemory: Physical Memory: 8393.18 MB used,  7770.12 MB free, 16163.30 MB total
+[2023.07.17-19.15.00:851][  0]LogMemory: Virtual Memory: 134209544.00 MB used,  8186.46 MB free, 134217728.00 MB total
+[2023.07.17-19.15.00:860][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.17-19.15.00:940][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.07.17-19.15.00:941][  0]LogInit: Using OS detected language (tr-TR).
+[2023.07.17-19.15.00:941][  0]LogInit: Using OS detected locale (tr-TR).
+[2023.07.17-19.15.00:952][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2023.07.17-19.15.01:586][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.17-19.15.01:629][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.07.17-19.15.01:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.17-19.15.01:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.17-19.15.01:919][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.07.17-19.15.01:950][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.17-19.15.01:950][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.07.17-19.15.01:950][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.07.17-19.15.01:950][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.17-19.15.02:135][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2023.07.17-19.15.02:135][  0]LogD3D11RHI:       3949/0/8081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.07.17-19.15.02:277][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.07.17-19.15.02:277][  0]LogD3D11RHI:       128/0/8081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:       0/0/8081 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     SubSysId    : 50151558
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     SharedSystemMemory : 8474226688 bytes
+[2023.07.17-19.15.02:280][  0]LogD3D11RHI:     AdapterLuid : 0 61344
+[2023.07.17-19.15.02:287][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.17-19.15.02:287][  0]LogD3D11RHI:     GPU DeviceId: 0x1f9d (for the marketing name, search the web for "GPU Device Id")
+[2023.07.17-19.15.02:287][  0]LogWindows: EnumDisplayDevices:
+[2023.07.17-19.15.02:287][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:1)
+[2023.07.17-19.15.02:287][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2023.07.17-19.15.02:287][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2023.07.17-19.15.02:288][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:   Driver Version: 536.40 (internal:31.0.15.3640, unified:536.40)
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:      Driver Date: 6-23-2023
+[2023.07.17-19.15.02:288][  0]LogRHI: Texture pool is 2764 MB (70% of 3949 MB)
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     DeviceId    : 1f9d
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     SubSysId    : 50151558
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     SharedSystemMemory : 8474226688 bytes
+[2023.07.17-19.15.02:288][  0]LogD3D11RHI:     AdapterLuid : 0 61344
+[2023.07.17-19.15.02:402][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.07.17-19.15.02:402][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.17-19.15.02:402][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.07.17-19.15.02:418][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.07.17-19.15.02:455][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.07.17-19.15.02:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.17-19.15.02:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.17-19.15.02:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.17-19.15.02:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.17-19.15.02:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.17-19.15.02:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.07.17-19.15.02:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.17-19.15.02:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.17-19.15.02:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.07.17-19.15.02:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.07.17-19.15.02:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.07.17-19.15.03:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.07.17-19.15.03:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.07.17-19.15.03:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.07.17-19.15.03:047][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.07.17-19.15.03:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.07.17-19.15.03:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.07.17-19.15.03:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.17-19.15.03:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.17-19.15.03:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.07.17-19.15.03:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.17-19.15.03:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.17-19.15.03:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.17-19.15.03:122][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.07.17-19.15.03:138][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.17-19.15.03:211][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.07.17-19.15.03:266][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.17-19.15.03:266][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Intermediate/Shaders/WorkingDirectory/4684/).
+[2023.07.17-19.15.03:267][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yunus/AppData/Local/Temp/UnrealShaderWorkingDir/83E7FDB847B5AD07F6ECB181DDC322AE/'.
+[2023.07.17-19.15.03:267][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.17-19.15.03:267][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.07.17-19.15.03:267][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.07.17-19.15.04:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/yunus/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yunus/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.17-19.15.04:173][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.07.17-19.15.04:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.07.17-19.15.04:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.17-19.15.04:193][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.07.17-19.15.04:207][  0]LogDerivedDataCache: Speed tests for C:/Users/yunus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.07.17-19.15.04:207][  0]LogDerivedDataCache: Display: Performance to C:/Users/yunus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=474.72MBs, RandomWriteSpeed=83.08MBs. Assigned SpeedClass 'Local'
+[2023.07.17-19.15.04:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yunus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.17-19.15.04:208][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.17-19.15.04:208][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.07.17-19.15.04:276][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.17-19.15.04:277][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.17-19.15.04:332][  0]LogAssetRegistry: FAssetRegistry took 0.0040 seconds to start up
+[2023.07.17-19.15.04:845][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.17-19.15.04:845][  0]LogInit: Active device profile: [000001BD13A84900][000001BD087C0100 49] Windows
+[2023.07.17-19.15.04:845][  0]LogInit: Profiles: [000001BD13A84900][000001BD087C0100 49] Windows, [000001BD13A37800][000001BD05808280 49] WindowsNoEditor, [000001BD13A87500][000001BD14E42400 49] WindowsServer, [000001BD13A34E00][000001BD14E46580 49] WindowsClient, [000001BD13A87800][000001BD14E4A700 49] IOS, [000001BD13A36800][000001BD14E3E840 49] iPadAir, [000001BD13A86000][000001BD14E4E980 49] iPadAir2, [000001BD139ECA00][000001BD14E56BC0 49] IPadPro, [000001BD139ECB00][000001BD14E52C00 49] iPadAir3, [000001BD13A35800][000001BD153C6D80 49] iPadAir4, [000001BD139EF400][000001BD153CAF00 49] iPadMini2, [000001BD13A36A00][000001BD153CF080 49] iPadMini3, [000001BD139ED700][000001BD153D3200 49] iPadMini4, [000001BD13A85000][000001BD153D7380 49] iPadMini5, [000001BD139F4300][000001BD153DF640 49] iPhone6, [000001BD139F4400][000001BD153DB680 49] iPodTouch6, [000001BD139EF600][000001BD153E7940 49] iPhone7, [000001BD139ED800][000001BD153E3980 49] iPodTouch7, [000001BD139F7F00][000001BD153EBB00 49] iPhone5S, [000001BD13A36300][000001BD153EE100 49] iPhone6Plus, [000001BD139EC200][000001BD153F2280 49] iPhone6S, [000001BD13A36200][000001BD153F6400 49] iPhone6SPlus, [000001BD139EFC00][000001BD153FA580 49] iPhone7Plus, [000001BD13A34100][000001BD15410700 49] iPhoneSE, [000001BD139EF500][000001BD15414880 49] iPhone8, [000001BD13A35E00][000001BD14E5A9C0 49] iPhone8Plus, [000001BD139ED000][000001BD15418B00 49] iPhoneX, [000001BD13A34A00][000001BD1541CC40 49] iPhoneXS, [000001BD139ED200][000001BD15420D80 49] iPhoneXSMax, [000001BD13A35500][000001BD15428F00 49] iPhoneXR, [000001BD139EF700][000001BD1542D080 49] iPhone11, [000001BD13A34D00][000001BD15431200 49] iPhone11Pro, [000001BD139EF800][000001BD15435380 49] iPhone11ProMax, [000001BD13A34F00][000001BD15439500 49] iPhoneSE2, [000001BD139EEE00][000001BD1543D680 49] iPhone12Mini, [000001BD13A37100][000001BD15441800 49] iPhone12, [000001BD139EEB00][000001BD15445980 49] iPhone12Pro, [000001BD13A34800][000001BD15449B00 49] iPhone12ProMax, [000001BD139EE300][000001BD1544C100 49] iPadPro105, [000001BD13A36F00][000001BD15450280 49] iPadPro129, [000001BD139EE000][000001BD15454400 49] iPadPro97, [000001BD13A35300][000001BD15458580 49] iPadPro2_129, [000001BD139EDA00][000001BD1545C700 49] iPad5, [000001BD13A35A00][000001BD15460880 49] iPad6, [000001BD139EE800][000001BD15464A00 49] iPad7, [000001BD13A34C00][000001BD15424B40 49] iPad8, [000001BD139EF200][000001BD15468C80 49] iPadPro11, [000001BD13A35600][000001BD1546CDC0 49] iPadPro2_11, [000001BD139EDC00][000001BD15470F00 49] iPadPro3_129, [000001BD13A37900][000001BD15479080 49] iPadPro4_129, [000001BD139ED500][000001BD1547D200 49] AppleTV, [000001BD13A34300][000001BD15481380 49] AppleTV4K, [000001BD139EC100][000001BD15485500 49] TVOS, [000001BD13A36400][000001BD15489680 49] Mac, [000001BD139EE100][000001BD1548D800 49] MacClient, [000001BD13A37400][000001BD15491980 49] MacNoEditor, [000001BD139EDF00][000001BD15495B00 49] MacServer, [000001BD13A34600][000001BD15498100 49] Linux, [000001BD139EE200][000001BD1549C280 49] LinuxAArch64, [000001BD13A37600][000001BD154A0400 49] LinuxNoEditor, [000001BD139EDD00][000001BD154A4580 49] LinuxAArch64NoEditor, [000001BD13A35400][000001BD154A8700 49] LinuxClient, [000001BD139EF100][000001BD154AC880 49] LinuxAArch64Client, [000001BD13A35900][000001BD154B0A00 49] LinuxServer, [000001BD139EF000][000001BD154B4B80 49] LinuxAArch64Server, [000001BD13A36600][000001BD154B8D00 49] Android, [000001BD139EC700][000001BD15474E40 49] Android_Low, [000001BD13A35B00][000001BD154BCF80 49] Android_Mid, [000001BD13A87A00][000001BD154C10C0 49] Android_High, [000001BD139F5C00][000001BD154C9240 49] Android_Default, [000001BD13A86100][000001BD154CD3C0 49] Android_Adreno4xx, [000001BD139F6700][000001BD154D1540 49] Android_Adreno5xx_Low, [000001BD13A84B00][000001BD154D56C0 49] Android_Adreno5xx, [000001BD139F6D00][000001BD154D9840 49] Android_Adreno6xx, [000001BD13A85200][000001BD154DD9C0 49] Android_Adreno6xx_Vulkan, [000001BD139F6800][000001BD154E1B40 49] Android_Mali_T6xx, [000001BD13A87200][000001BD154E4140 49] Android_Mali_T7xx, [000001BD139F6E00][000001BD154E82C0 49] Android_Mali_T8xx, [000001BD13A86500][000001BD154EC440 49] Android_Mali_G71, [000001BD139F7E00][000001BD154F05C0 49] Android_Mali_G72, [000001BD13A86A00][000001BD154F4740 49] Android_Mali_G72_Vulkan, [000001BD139F5B00][000001BD154F88C0 49] Android_Mali_G76, [000001BD13A85B00][000001BD154FCA40 49] Android_Mali_G76_Vulkan, [000001BD139F7D00][000001BD15500BC0 49] Android_Mali_G77, [000001BD13A86D00][000001BD15504D40 49] Android_Mali_G77_Vulkan, [000001BD139F7900][000001BD15508EC0 49] Android_Mali_G78, [000001BD13A84D00][000001BD154C5000 49] Android_Mali_G78_Vulkan, [000001BD139F4500][000001BD1550D140 49] Android_Mali_G710, [000001BD13A86B00][000001BD15511280 49] Android_Mali_G710_Vulkan, [000001BD139F7500][000001BD155153C0 49] Android_Vulkan_SM5, [000001BD13A87400][000001BD1551D540 49] Android_PowerVR_G6xxx, [000001BD139F6400][000001BD155216C0 49] Android_PowerVR_GT7xxx, [000001BD13A87C00][000001BD15525840 49] Android_PowerVR_GE8xxx, [000001BD139F6200][000001BD155299C0 49] Android_PowerVR_GM9xxx, [000001BD13A87000][000001BD1552DB40 49] Android_PowerVR_GM9xxx_Vulkan, [000001BD139F5500][000001BD15530140 49] Android_TegraK1, [000001BD13A85100][000001BD155342C0 49] Android_Unknown_Vulkan, [000001BD13A37D00][000001BD15538440 49] Lumin, [000001BD13A86900][000001BD155625C0 49] Lumin_Desktop, [000001BD13A37E00][000001BD15584740 49] HoloLens, 
+[2023.07.17-19.15.05:466][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.17-19.15.05:466][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.17-19.15.05:466][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.17-19.15.05:466][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.17-19.15.05:466][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.17-19.15.05:604][  0]LogNetVersion: GitOyun 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2586783850)
+[2023.07.17-19.15.07:335][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.07.17-19.15.07:561][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.07.17-19.15.07:578][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.07.17-19.15.07:578][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.07.17-19.15.07:578][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.17-19.15.08:896][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9C3712074E716BDB8619389DEE8B064D | Instance: F725CD6A4F79400E78E5A4AF782839A3 (DESKTOP-9DCP7KD-4684).
+[2023.07.17-19.15.09:033][  0]LogPython: Using Python 3.7.7
+[2023.07.17-19.15.11:931][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.17-19.15.12:009][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.17-19.15.12:744][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.12:744][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.12:936][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.12:947][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.12:975][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.12:998][  0]LogUProjectInfo: Found projects:
+[2023.07.17-19.15.13:587][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.17-19.15.13:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.17-19.15.13:822][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.17-19.15.13:822][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.17-19.15.14:326][  0]LogCollectionManager: Loaded 0 collections in 0.009416 seconds
+[2023.07.17-19.15.14:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yunus/GittHubProjects/starter/GitOyun/Saved/Collections/' took 0.00s
+[2023.07.17-19.15.14:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yunus/GittHubProjects/starter/GitOyun/Content/Developers/yunus/Collections/' took 0.00s
+[2023.07.17-19.15.14:483][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yunus/GittHubProjects/starter/GitOyun/Content/Collections/' took 0.00s
+[2023.07.17-19.15.14:483][  0]LogOcInput: OculusInput pre-init called
+[2023.07.17-19.15.16:891][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:891][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:891][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:891][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:891][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.07.17-19.15.16:892][  0]LogClass: Display: 11 Uninitialized script struct members found including 0 object properties
+[2023.07.17-19.15.16:897][  0]LogEngine: Initializing Engine...
+[2023.07.17-19.15.17:015][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.07.17-19.15.17:017][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.17-19.15.17:020][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.07.17-19.15.17:024][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.07.17-19.15.17:549][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.17-19.15.17:585][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.17-19.15.17:593][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.17-19.15.17:608][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.17-19.15.17:611][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.17-19.15.17:613][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.17-19.15.17:613][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.17-19.15.17:613][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.17-19.15.17:613][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.17-19.15.17:613][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.17-19.15.17:614][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.17-19.15.17:614][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.17-19.15.17:614][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.17-19.15.17:614][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.17-19.15.17:614][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.17-19.15.17:615][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.17-19.15.17:615][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.17-19.15.17:615][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.17-19.15.17:615][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.17-19.15.17:697][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.17-19.15.17:697][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.07.17-19.15.17:785][  0]LogAudioMixer: Display: Using Audio Device Hoparlör (Realtek(R) Audio)
+[2023.07.17-19.15.17:787][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.17-19.15.17:793][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.17-19.15.17:794][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.17-19.15.17:795][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.17-19.15.17:795][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.17-19.15.17:795][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.17-19.15.17:796][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.17-19.15.17:796][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.17-19.15.17:796][  0]LogInit: FAudioDevice initialized.
+[2023.07.17-19.15.17:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.17-19.15.17:797][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.17-19.15.17:865][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/yunus/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.07.17-19.15.17:866][  0]LogInit: Texture streaming: Enabled
+[2023.07.17-19.15.17:891][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.07.17-19.15.17:898][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.17-19.15.17:898][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.07.17-19.15.17:900][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.07.17-19.15.17:926][  0]LogInit: Transaction tracking system initialized
+[2023.07.17-19.15.17:967][  0]BlueprintLog: New page: Editor Load
+[2023.07.17-19.15.18:117][  0]LocalizationService: Localization service is disabled
+[2023.07.17-19.15.18:160][  0]TimingProfiler: Initialize
+[2023.07.17-19.15.18:160][  0]TimingProfiler: OnSessionChanged
+[2023.07.17-19.15.18:160][  0]LoadingProfiler: Initialize
+[2023.07.17-19.15.18:161][  0]LoadingProfiler: OnSessionChanged
+[2023.07.17-19.15.18:161][  0]NetworkingProfiler: Initialize
+[2023.07.17-19.15.18:161][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.17-19.15.18:161][  0]MemoryProfiler: Initialize
+[2023.07.17-19.15.18:161][  0]MemoryProfiler: OnSessionChanged
+[2023.07.17-19.15.18:469][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.07.17-19.15.18:469][  0]LogCook: Display: Mobile HDR setting 1
+[2023.07.17-19.15.18:807][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yunus/GittHubProjects/starter/GitOyun/Content/' took 0.01s
+[2023.07.17-19.15.19:093][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.17-19.15.19:103][  0]SourceControl: Source control is disabled
+[2023.07.17-19.15.19:103][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.871
+[2023.07.17-19.15.19:121][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.07.17-19.15.19:122][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.19:122][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.19:122][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.17-19.15.19:133][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.07.17-19.15.19:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.07.17-19.15.19:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.07.17-19.15.19:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.07.17-19.15.19:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.07.17-19.15.19:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.07.17-19.15.19:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.07.17-19.15.19:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.07.17-19.15.19:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.07.17-19.15.19:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.07.17-19.15.19:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.07.17-19.15.19:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.07.17-19.15.19:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.07.17-19.15.19:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.07.17-19.15.19:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.07.17-19.15.19:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.07.17-19.15.19:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.07.17-19.15.19:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.07.17-19.15.19:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Fire01.uasset"
+[2023.07.17-19.15.19:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.07.17-19.15.19:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.07.17-19.15.19:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.07.17-19.15.19:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Light01.uasset"
+[2023.07.17-19.15.19:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.07.17-19.15.19:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Light02.uasset"
+[2023.07.17-19.15.19:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.07.17-19.15.19:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.07.17-19.15.19:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.07.17-19.15.19:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.07.17-19.15.19:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.07.17-19.15.19:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.07.17-19.15.19:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.07.17-19.15.19:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.07.17-19.15.19:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.07.17-19.15.19:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Steam01.uasset"
+[2023.07.17-19.15.19:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.07.17-19.15.19:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.07.17-19.15.19:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.07.17-19.15.19:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.07.17-19.15.19:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.07.17-19.15.19:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.07.17-19.15.19:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.07.17-19.15.19:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.07.17-19.15.19:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.07.17-19.15.19:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.07.17-19.15.19:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.07.17-19.15.19:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.07.17-19.15.19:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.07.17-19.15.19:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.07.17-19.15.19:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.07.17-19.15.19:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.07.17-19.15.19:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.07.17-19.15.19:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.07.17-19.15.19:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.07.17-19.15.19:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.07.17-19.15.19:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.07.17-19.15.19:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.07.17-19.15.19:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/StarterMap.umap"
+[2023.07.17-19.15.19:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.07.17-19.15.19:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.07.17-19.15.19:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.07.17-19.15.19:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.07.17-19.15.19:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.07.17-19.15.19:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.07.17-19.15.19:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.07.17-19.15.19:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.07.17-19.15.19:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.07.17-19.15.19:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.07.17-19.15.19:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.07.17-19.15.20:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.07.17-19.15.20:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.07.17-19.15.20:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.07.17-19.15.20:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.07.17-19.15.20:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.07.17-19.15.20:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.07.17-19.15.20:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.07.17-19.15.20:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.07.17-19.15.20:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.07.17-19.15.20:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.07.17-19.15.20:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.07.17-19.15.20:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.07.17-19.15.20:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.07.17-19.15.20:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.07.17-19.15.20:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.07.17-19.15.20:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.07.17-19.15.20:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.07.17-19.15.20:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.07.17-19.15.20:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.07.17-19.15.20:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.07.17-19.15.20:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.07.17-19.15.20:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.07.17-19.15.20:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.07.17-19.15.20:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.07.17-19.15.20:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.07.17-19.15.20:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.07.17-19.15.20:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.07.17-19.15.20:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.07.17-19.15.20:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.07.17-19.15.20:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.07.17-19.15.20:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.07.17-19.15.20:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.07.17-19.15.20:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.07.17-19.15.20:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.07.17-19.15.20:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.07.17-19.15.20:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.07.17-19.15.20:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.07.17-19.15.20:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.07.17-19.15.20:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.07.17-19.15.20:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.07.17-19.15.20:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.07.17-19.15.20:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.07.17-19.15.20:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.07.17-19.15.20:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.07.17-19.15.20:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.07.17-19.15.20:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.07.17-19.15.20:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.07.17-19.15.20:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.07.17-19.15.20:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.07.17-19.15.20:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.07.17-19.15.20:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.07.17-19.15.20:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.07.17-19.15.20:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.07.17-19.15.20:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.07.17-19.15.20:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Door.uasset"
+[2023.07.17-19.15.20:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.07.17-19.15.20:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.07.17-19.15.20:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.07.17-19.15.20:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.07.17-19.15.20:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.07.17-19.15.20:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.07.17-19.15.20:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.07.17-19.15.20:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.07.17-19.15.20:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.07.17-19.15.20:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.07.17-19.15.20:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.07.17-19.15.20:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.07.17-19.15.20:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.07.17-19.15.20:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.07.17-19.15.20:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.07.17-19.15.20:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.07.17-19.15.20:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.07.17-19.15.20:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.07.17-19.15.20:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.07.17-19.15.20:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.07.17-19.15.20:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.07.17-19.15.20:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.07.17-19.15.20:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.07.17-19.15.20:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.07.17-19.15.20:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.07.17-19.15.20:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.07.17-19.15.20:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.07.17-19.15.20:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.07.17-19.15.20:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.07.17-19.15.20:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.07.17-19.15.20:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.07.17-19.15.20:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.07.17-19.15.20:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.07.17-19.15.20:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.07.17-19.15.20:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.07.17-19.15.20:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.07.17-19.15.20:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.07.17-19.15.20:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.07.17-19.15.20:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.07.17-19.15.20:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.07.17-19.15.20:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.07.17-19.15.20:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.07.17-19.15.20:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.07.17-19.15.20:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.07.17-19.15.20:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.07.17-19.15.20:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.07.17-19.15.20:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.07.17-19.15.20:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.07.17-19.15.20:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.07.17-19.15.20:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.07.17-19.15.21:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.07.17-19.15.21:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.07.17-19.15.21:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.07.17-19.15.21:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.07.17-19.15.21:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.07.17-19.15.21:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.07.17-19.15.21:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.07.17-19.15.21:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.07.17-19.15.21:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.07.17-19.15.21:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.07.17-19.15.21:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.07.17-19.15.21:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.07.17-19.15.21:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.07.17-19.15.21:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.07.17-19.15.21:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.07.17-19.15.21:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.07.17-19.15.21:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.07.17-19.15.21:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.07.17-19.15.21:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.07.17-19.15.21:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.07.17-19.15.21:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.07.17-19.15.21:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.07.17-19.15.21:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.07.17-19.15.21:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.07.17-19.15.21:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.07.17-19.15.21:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.07.17-19.15.21:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.07.17-19.15.21:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.07.17-19.15.21:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.07.17-19.15.21:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.07.17-19.15.21:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.07.17-19.15.21:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.07.17-19.15.21:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.07.17-19.15.21:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.07.17-19.15.21:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.07.17-19.15.21:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.07.17-19.15.21:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.07.17-19.15.21:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.07.17-19.15.21:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.07.17-19.15.21:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.07.17-19.15.21:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.07.17-19.15.21:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.07.17-19.15.21:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.07.17-19.15.21:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.07.17-19.15.21:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.07.17-19.15.21:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.07.17-19.15.21:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.07.17-19.15.21:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.07.17-19.15.21:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.07.17-19.15.21:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.07.17-19.15.21:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.07.17-19.15.21:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.07.17-19.15.22:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.07.17-19.15.22:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.07.17-19.15.22:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.07.17-19.15.22:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.07.17-19.15.22:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.07.17-19.15.22:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.07.17-19.15.22:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.07.17-19.15.22:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.07.17-19.15.22:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.07.17-19.15.22:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.07.17-19.15.22:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.07.17-19.15.22:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.07.17-19.15.22:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.07.17-19.15.22:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.07.17-19.15.22:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.07.17-19.15.22:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.07.17-19.15.22:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.07.17-19.15.22:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.07.17-19.15.22:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.07.17-19.15.22:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.07.17-19.15.22:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.07.17-19.15.22:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.07.17-19.15.22:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.07.17-19.15.22:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.07.17-19.15.22:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.07.17-19.15.22:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.07.17-19.15.22:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.07.17-19.15.22:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.07.17-19.15.22:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.07.17-19.15.22:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.07.17-19.15.22:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.07.17-19.15.22:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.07.17-19.15.22:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.07.17-19.15.22:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.07.17-19.15.22:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.07.17-19.15.22:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.07.17-19.15.22:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.07.17-19.15.22:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.07.17-19.15.22:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.07.17-19.15.22:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.07.17-19.15.22:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.07.17-19.15.22:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.07.17-19.15.22:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.07.17-19.15.22:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.07.17-19.15.22:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.07.17-19.15.22:839][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.07.17-19.15.23:080][  0]LogSavePackage: Moving '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Saved/Floor_400x400E54F5F944935E1CF3E559DA5C993DEAB.tmp' to '../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.07.17-19.15.23:082][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.07.17-19.15.23:082][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yunus/GittHubProjects/starter/GitOyun/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.17-19.15.23:083][  0]LightingResults: New page: Lighting Build
+[2023.07.17-19.15.23:084][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-19.15.23:085][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-19.15.23:085][  0]MapCheck: New page: Map Check
+[2023.07.17-19.15.23:085][  0]LightingResults: New page: Lighting Build
+[2023.07.17-19.15.23:091][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.17-19.15.23:095][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.17-19.15.23:539][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 64X64)
+[2023.07.17-19.15.23:539][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 64X64)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 2048X1024)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 2048X2048)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 2048X1024)
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:540][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 2048X1024)
+[2023.07.17-19.15.23:564][  0]LogTexture: Display: Building textures: DeprecatedTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.07.17-19.15.23:990][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 64X32)
+[2023.07.17-19.15.23:991][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.07.17-19.15.23:991][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.07.17-19.15.24:022][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.17-19.15.24:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.07.17-19.15.24:049][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.17-19.15.24:050][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,446ms to complete.
+[2023.07.17-19.15.24:050][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.968
+[2023.07.17-19.15.24:052][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.821
+[2023.07.17-19.15.24:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-19.15.24:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-19.15.24:506][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-19.15.24:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.17-19.15.24:657][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0379 seconds. Added 3833 classes and 935 folders.
+[2023.07.17-19.15.24:676][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2023.07.17-19.15.24:687][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.17-19.15.24:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.17-19.15.24:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:687][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.07.17-19.15.24:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000231
+[2023.07.17-19.15.24:692][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.07.17-19.15.24:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.07.17-19.15.24:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.07.17-19.15.24:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2023.07.17-19.15.24:696][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.07.17-19.15.24:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.07.17-19.15.24:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.07.17-19.15.24:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2023.07.17-19.15.24:700][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.24:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.17-19.15.24:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:700][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.07.17-19.15.24:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2023.07.17-19.15.24:704][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.07.17-19.15.24:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.07.17-19.15.24:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.07.17-19.15.24:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2023.07.17-19.15.24:708][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.07.17-19.15.24:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.07.17-19.15.24:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:708][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.07.17-19.15.24:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2023.07.17-19.15.24:712][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.07.17-19.15.24:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.07.17-19.15.24:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.07.17-19.15.24:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000192
+[2023.07.17-19.15.24:717][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.07.17-19.15.24:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.07.17-19.15.24:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.07.17-19.15.24:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000230
+[2023.07.17-19.15.24:722][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.17-19.15.24:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.17-19.15.24:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.07.17-19.15.24:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2023.07.17-19.15.24:727][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.07.17-19.15.24:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.07.17-19.15.24:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:727][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.07.17-19.15.24:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2023.07.17-19.15.24:731][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.07.17-19.15.24:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.07.17-19.15.24:731][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:731][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.07.17-19.15.24:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2023.07.17-19.15.24:734][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.17-19.15.24:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.17-19.15.24:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.07.17-19.15.24:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2023.07.17-19.15.24:738][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.24:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.17-19.15.24:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.07.17-19.15.24:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2023.07.17-19.15.24:742][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.17-19.15.24:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.17-19.15.24:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.07.17-19.15.24:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000166
+[2023.07.17-19.15.24:748][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.07.17-19.15.24:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.07.17-19.15.24:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.07.17-19.15.24:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2023.07.17-19.15.24:752][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.17-19.15.24:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.17-19.15.24:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:752][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.07.17-19.15.24:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000135
+[2023.07.17-19.15.24:755][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.07.17-19.15.24:755][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:755][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.07.17-19.15.24:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:756][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.07.17-19.15.24:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2023.07.17-19.15.24:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.17-19.15.24:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.17-19.15.24:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.07.17-19.15.24:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2023.07.17-19.15.24:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.24:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.17-19.15.24:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:764][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.07.17-19.15.24:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2023.07.17-19.15.24:767][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.24:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.17-19.15.24:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:767][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.07.17-19.15.24:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000144
+[2023.07.17-19.15.24:771][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.17-19.15.24:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.17-19.15.24:771][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:771][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.07.17-19.15.24:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000134
+[2023.07.17-19.15.24:775][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.17-19.15.24:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.17-19.15.24:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.07.17-19.15.24:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2023.07.17-19.15.24:779][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.07.17-19.15.24:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.07.17-19.15.24:779][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:779][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.07.17-19.15.24:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2023.07.17-19.15.24:783][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.17-19.15.24:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.17-19.15.24:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:784][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.07.17-19.15.24:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000230
+[2023.07.17-19.15.24:788][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.17-19.15.24:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.17-19.15.24:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.07.17-19.15.24:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2023.07.17-19.15.24:792][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.07.17-19.15.24:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.17-19.15.24:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.07.17-19.15.24:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.17-19.15.24:793][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.07.17-19.15.24:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2023.07.17-19.15.25:092][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.07.17-19.15.25:104][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2023.07.17-19.15.25:334][  0]LogSlate: Took 0.000541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.17-19.15.25:347][  0]LogSlate: Took 0.011806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.17-19.15.25:349][  0]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.17-19.15.25:488][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2023.07.17-19.15.25:602][  0]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.17-19.15.25:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.07.17-19.15.25:817][  0]LogLoad: (Engine Initialization) Total time: 27.59 seconds
+[2023.07.17-19.15.25:817][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.17-19.15.25:856][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.07.17-19.15.25:856][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.07.17-19.15.25:893][  0]LogAssetRegistry: Asset discovery search completed in 21.5618 seconds
+[2023.07.17-19.15.25:900][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.07.17-19.15.26:148][  0]LogContentStreaming: Texture pool size now 1000 MB
